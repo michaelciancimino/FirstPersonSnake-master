@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstPersonSnake.CSharp", "FirstPersonSnake.CSharp.csproj", "{5BFFD90E-BED2-91CE-5C16-DB2B71DA787B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstPersonSnake.CSharp.Editor", "FirstPersonSnake.CSharp.Editor.csproj", "{5974872A-7BA9-B16C-93EF-1C1C5D5A0632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFFD90E-BED2-91CE-5C16-DB2B71DA787B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFFD90E-BED2-91CE-5C16-DB2B71DA787B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFFD90E-BED2-91CE-5C16-DB2B71DA787B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFFD90E-BED2-91CE-5C16-DB2B71DA787B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5974872A-7BA9-B16C-93EF-1C1C5D5A0632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5974872A-7BA9-B16C-93EF-1C1C5D5A0632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5974872A-7BA9-B16C-93EF-1C1C5D5A0632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5974872A-7BA9-B16C-93EF-1C1C5D5A0632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
